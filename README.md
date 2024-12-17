@@ -3,15 +3,19 @@
 This project is a modified version of [Weather Notifier](https://github.com/DESalhi/Weather_Notifier) created by **DESalhi**.
 
 터미널에
+
 sudo apt install python3 tk
 
 python3 totravel.py
+
 를 입력하고 여행지를 입력하세요.
 
 Type
+
 sudo apt install python3 tk
 
 python3 totravel.py
+
 in the terminal and enter your travel destination.
 
 ## Changes Made
