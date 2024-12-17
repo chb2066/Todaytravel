@@ -4,7 +4,7 @@ This project is a modified version of [Weather Notifier](https://github.com/DESa
 
 터미널에
 
-sudo apt install python3 tk
+sudo apt-get install python3-tk
 
 python3 totravel.py
 
@@ -12,7 +12,7 @@ python3 totravel.py
 
 Type
 
-sudo apt install python3 tk
+sudo apt-get install python3-tk
 
 python3 totravel.py
 
